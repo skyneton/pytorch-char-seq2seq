@@ -62,7 +62,7 @@ dataset = [
 
 ### Train Losses
 ![](./graph.png)
-400 epochs
+- 400 epochs
 
 ### Test
 ```text
