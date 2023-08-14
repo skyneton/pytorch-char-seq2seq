@@ -61,7 +61,7 @@ dataset = [
 
 
 ### Train Losses
-![](./blob/main/graph.png)
+![](./graph.png)
 400 epochs
 
 ### Test
